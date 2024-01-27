@@ -7,7 +7,7 @@ Originally created in **May 2022**.
 
 A fourth variant of [spaaaaaace](https://github.com/Klehrik/spaaaaaace) that returned to the more simplistic shape art style.  
 This was supposed to be a multiplayer experience, featuring several support weapons that could heal/buff teammates, etc.  
-I also did away with the Hull/Shield separation
+I also did away with the Hull/Shield separation of previous versions, and just made it a regenerating health bar.
 
 ---
 
