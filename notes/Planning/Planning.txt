@@ -1,0 +1,38 @@
+
+-- Weapons --
+Light Blaster  (Cooldown: 0.33 sec.) - Fire a projectile for 100% damage.                           [Upgrade: Fire a second slightly inaccurate projectile.]    Fire Rate: 3 shots/s
+Heavy Blaster  (Cooldown: 0.6  sec.) - Fire a projectile for 180% damage.                                         [Upgrade: Damage is increased to 280% and     Fire Rate: 1.67 shots/s
+                                                                                                                   deals double damage to shields over 75%.]
+Railgun        (Cooldown: 1.4  sec.) - Fire a fast projectile that deals damage based on distance               [Upgrade: Damage cap is increased to 1000%.]    Fire Rate: 0.71 shots/s
+                                       travelled. Starts at 50% damage and caps at 650% damage.
+Spitfire       (Cooldown: 1/6  sec.) - Fire an inaccurate projectile for 100% damage.                             [Upgrade: Cooldown is reduced to 1/9 sec.]    Fire Rate: 6 (9) shots/s
+Burst          (Cooldown: 1.6  sec.) - Fire a volley of 8 short ranged projectiles for 80% damage each. Recoil.          [Upgrade: Fire 6 more projectiles.]    Fire Rate: 0.625 shots/s
+Backburst      (Cooldown: 1.4  sec.) - Fire a volley of 6 short ranged projectiles for 80% damage each. Recoil.          [Upgrade: Fire 3 more projectiles.]    Fire Rate: 0.71 shots/s
+Missiles       (Cooldown: 1    sec.) - Fire two seeking missiles for 100% damage each.   [Upgrade: Fire two additional faster missiles for 50% damage each.]    Fire Rate: 1 shot/s
+Prototype      (Cooldown: 0.33 sec.) - Fires a fast, slightly inaccurate projectile for 70% damage.  [Upgrade: Makes the weapon slower and more inaccurate,     Fire Rate: 3 (0.45 -> 10) shots/s
+                                                                                                      but repeatedly firing will focus the shots. Will also
+									                                                                       release a missile every 4 shots for 100% damage.]
+
+
+-- Utility --
+Rotating Barrier (Cooldown: 17 sec.) - Gain four rotating orbs that block enemy projectiles for 7 seconds.       [Upgrade: The orbs rotate at double speed.]
+Shield Charger   (Cooldown: 18 sec.) - Boost the shield charge rate of nearby allies by 30% for 8 seconds.    [Upgrade: Charge rate boost increased to 60%.]
+Shield Pulse     (Cooldown: 14 sec.) - Instantly recharge 25% of nearby allies' shields.                          [Upgrade: Cooldown reduced to 11 seconds.]
+Engine Booster   (Cooldown: 14 sec.) - Boost the move speed of nearby allies by 30% for 7 seconds.             [Upgrade: Move speed boost increased to 60%.]
+Bubble           (Cooldown: 10 sec.) - Destroy all projectiles in a large radius for 1 second.                   [Upgrade: Duration increased to 3 seconds.]
+Warp Drive       (Cooldown:  9 sec.) - Teleport to the target location.                                            [Upgrade: Cooldown reduced to 6 seconds.]
+Drone Parts      (Cooldown: 20 sec.) - Deploy an allied attack drone that expires after 20 seconds.                            [Upgrade: Deploy two drones.]
+Bullet Attractor (Cooldown: 17 sec.) - Draw nearby enemy projectiles towards yourself for 3 seconds,              [Upgrade: Cooldown reduced to 13 seconds.]
+                                       restoring 0.5% of shield for every projectile absorbed.
+
+
+-- Systems --    (Cannot have multiple of the same system)
+Orbital Barrier  - Gain a rotating orb that blocks enemy projectiles.                                            [Upgrade: The orb rotates at double speed.]
+Plasma Beam      x Gain a short-range beam that points in front of you and deals 100% damage per second.   [Upgrade: The beam deals 200% damage per second.]
+Turbocharge      - Move 20% faster.                                                                            [Upgrade: Move speed boost increased to 40%.]
+Energy Shield    - Take 10% less damage from projectiles.                                                     [Upgrade: Damage absorption increased to 20%.]
+Missile Defense  - Missiles will not lock-on to you.                                                              [Upgrade: Missiles deal no damage to you.]
+Super Shield     x Gain a shield every 6 seconds that blocks one enemy projectile.                                  [Upgrade: Delay reduced to 3.5 seconds.]
+Power Surge      - Reduce all utility cooldowns by 2 seconds.                                                   [Upgrade: Reduction increased to 4 seconds.]
+Reverse Gear     - Allows you to accelerate backwards.                                                                                          [No upgrade]
+
