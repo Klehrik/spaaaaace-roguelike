@@ -22,3 +22,4 @@ R - Reset game
 - Weapon 3 (Engine Booster) boosts the speed of nearby allies
 - Weapon 4 (Shield Pulse) restores health of nearby allies
 - Weapon 5 (Bullet Attractor) sucks in nearby enemy projectiles and converts them into healing
+- I didn't add in ship death at ~0 HP lol
